@@ -1,8 +1,7 @@
 {
-  "location": null,
-  "semver": false,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-julia",
-  "lang": "julia",
-  "min_version": null,
-  "max_version": null
+  "semver": false,
+  "parser_version": "8454f266717232525ed03c7b09164b0404a03150",
+  "location": null,
+  "lang": "julia"
 }
